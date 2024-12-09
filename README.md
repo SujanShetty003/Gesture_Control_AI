@@ -1,4 +1,4 @@
-#Gesture Control Game Interaction
+##**Gesture Control Game Interaction**#
 
 This project allows you to control the popular game Subway Surfers using real-time hand gestures detected through your webcam. It leverages the MediaPipe library for hand and pose tracking and PyAutoGUI to simulate keyboard inputs.
 
